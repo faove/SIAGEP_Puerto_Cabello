@@ -1,0 +1,40 @@
+Línea 19: la clase MSComctlLib.ImageList del control ImageList3 no era una clase de control cargada.
+Línea 77: la clase MSComctlLib.StatusBar del control StatusBar1 no era una clase de control cargada.
+Línea 142: la clase MSComctlLib.ImageList del control ImageList2 no era una clase de control cargada.
+Línea 200: la clase MSComctlLib.Toolbar del control Toolbar1 no era una clase de control cargada.
+Línea 300: la clase MSComctlLib.ImageList del control ImageList1 no era una clase de control cargada.
+Línea 22: el nombre de la propiedad _ExtentX de ImageList3 no es válido.
+Línea 23: el nombre de la propiedad _ExtentY de ImageList3 no es válido.
+Línea 25: el nombre de la propiedad ImageWidth de ImageList3 no es válido.
+Línea 26: el nombre de la propiedad ImageHeight de ImageList3 no es válido.
+Línea 27: el nombre de la propiedad MaskColor de ImageList3 no es válido.
+Línea 28: el nombre de la propiedad _Version de ImageList3 no es válido.
+Línea 75: el nombre de la propiedad Images de ImageList3 no es válido.
+Línea 84: el nombre de la propiedad _ExtentX de StatusBar1 no es válido.
+Línea 85: el nombre de la propiedad _ExtentY de StatusBar1 no es válido.
+Línea 86: el nombre de la propiedad _Version de StatusBar1 no es válido.
+Línea 131: el nombre de la propiedad Panels de StatusBar1 no es válido.
+Línea 145: el nombre de la propiedad _ExtentX de ImageList2 no es válido.
+Línea 146: el nombre de la propiedad _ExtentY de ImageList2 no es válido.
+Línea 148: el nombre de la propiedad ImageWidth de ImageList2 no es válido.
+Línea 149: el nombre de la propiedad ImageHeight de ImageList2 no es válido.
+Línea 150: el nombre de la propiedad MaskColor de ImageList2 no es válido.
+Línea 151: el nombre de la propiedad _Version de ImageList2 no es válido.
+Línea 198: el nombre de la propiedad Images de ImageList2 no es válido.
+Línea 207: el nombre de la propiedad _ExtentX de Toolbar1 no es válido.
+Línea 208: el nombre de la propiedad _ExtentY de Toolbar1 no es válido.
+Línea 209: el nombre de la propiedad ButtonWidth de Toolbar1 no es válido.
+Línea 210: el nombre de la propiedad ButtonHeight de Toolbar1 no es válido.
+Línea 212: el nombre de la propiedad Style de Toolbar1 no es válido.
+Línea 213: el nombre de la propiedad ImageList de Toolbar1 no es válido.
+Línea 214: el nombre de la propiedad DisabledImageList de Toolbar1 no es válido.
+Línea 215: el nombre de la propiedad HotImageList de Toolbar1 no es válido.
+Línea 216: el nombre de la propiedad _Version de Toolbar1 no es válido.
+Línea 298: el nombre de la propiedad Buttons de Toolbar1 no es válido.
+Línea 303: el nombre de la propiedad _ExtentX de ImageList1 no es válido.
+Línea 304: el nombre de la propiedad _ExtentY de ImageList1 no es válido.
+Línea 306: el nombre de la propiedad ImageWidth de ImageList1 no es válido.
+Línea 307: el nombre de la propiedad ImageHeight de ImageList1 no es válido.
+Línea 308: el nombre de la propiedad MaskColor de ImageList1 no es válido.
+Línea 309: el nombre de la propiedad _Version de ImageList1 no es válido.
+Línea 356: el nombre de la propiedad Images de ImageList1 no es válido.

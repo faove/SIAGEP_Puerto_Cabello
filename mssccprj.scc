@@ -1,0 +1,9 @@
+SCC = This is a Source Code Control file
+
+[MercaSoftware.vbp]
+SCC_Aux_Path =\\Araya\ALCALSIS\,
+SCC_Project_Name ="$/", aaaaaaaa
+
+[siis.vbp]
+SCC_Aux_Path = "\\Csudobib02\PROYECTO\BDSIIS"
+SCC_Project_Name = "$/", aaaaaaaa

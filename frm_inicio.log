@@ -1,0 +1,84 @@
+Línea 72: la clase MSForms.Label del control Label3 no era una clase de control cargada.
+Línea 88: la clase MSForms.Label del control Label2 no era una clase de control cargada.
+Línea 173: la clase MSAdodcLib.Adodc del control usuario_alcalsis no era una clase de control cargada.
+Línea 220: la clase MSDataListLib.DataCombo del control DCombo_login no era una clase de control cargada.
+Línea 246: la clase MSForms.Label del control Label4 no era una clase de control cargada.
+Línea 269: la clase MSForms.Label del control login no era una clase de control cargada.
+Línea 284: la clase MSForms.Label del control Label1 no era una clase de control cargada.
+Línea 301: la clase MSComDlg.CommonDialog del control cdlBox no era una clase de control cargada.
+Línea 79: el nombre de la propiedad Caption de Label3 no es válido.
+Línea 80: el nombre de la propiedad Size de Label3 no es válido.
+Línea 81: el nombre de la propiedad BorderColor de Label3 no es válido.
+Línea 82: el nombre de la propiedad FontEffects de Label3 no es válido.
+Línea 83: el nombre de la propiedad FontHeight de Label3 no es válido.
+Línea 84: el nombre de la propiedad FontCharSet de Label3 no es válido.
+Línea 85: el nombre de la propiedad FontPitchAndFamily de Label3 no es válido.
+Línea 86: el nombre de la propiedad FontWeight de Label3 no es válido.
+Línea 95: el nombre de la propiedad Caption de Label2 no es válido.
+Línea 96: el nombre de la propiedad Size de Label2 no es válido.
+Línea 97: el nombre de la propiedad BorderColor de Label2 no es válido.
+Línea 98: el nombre de la propiedad FontEffects de Label2 no es válido.
+Línea 99: el nombre de la propiedad FontHeight de Label2 no es válido.
+Línea 100: el nombre de la propiedad FontCharSet de Label2 no es válido.
+Línea 101: el nombre de la propiedad FontPitchAndFamily de Label2 no es válido.
+Línea 102: el nombre de la propiedad FontWeight de Label2 no es válido.
+Línea 179: el nombre de la propiedad _ExtentX de usuario_alcalsis no es válido.
+Línea 180: el nombre de la propiedad _ExtentY de usuario_alcalsis no es válido.
+Línea 181: el nombre de la propiedad ConnectMode de usuario_alcalsis no es válido.
+Línea 182: el nombre de la propiedad CursorLocation de usuario_alcalsis no es válido.
+Línea 183: el nombre de la propiedad IsolationLevel de usuario_alcalsis no es válido.
+Línea 184: el nombre de la propiedad ConnectionTimeout de usuario_alcalsis no es válido.
+Línea 185: el nombre de la propiedad CommandTimeout de usuario_alcalsis no es válido.
+Línea 186: el nombre de la propiedad CursorType de usuario_alcalsis no es válido.
+Línea 187: el nombre de la propiedad LockType de usuario_alcalsis no es válido.
+Línea 188: el nombre de la propiedad CommandType de usuario_alcalsis no es válido.
+Línea 189: el nombre de la propiedad CursorOptions de usuario_alcalsis no es válido.
+Línea 190: el nombre de la propiedad CacheSize de usuario_alcalsis no es válido.
+Línea 191: el nombre de la propiedad MaxRecords de usuario_alcalsis no es válido.
+Línea 192: el nombre de la propiedad BOFAction de usuario_alcalsis no es válido.
+Línea 193: el nombre de la propiedad EOFAction de usuario_alcalsis no es válido.
+Línea 194: el nombre de la propiedad ConnectStringType de usuario_alcalsis no es válido.
+Línea 198: el nombre de la propiedad Orientation de usuario_alcalsis no es válido.
+Línea 200: el nombre de la propiedad Connect de usuario_alcalsis no es válido.
+Línea 201: el nombre de la propiedad OLEDBString de usuario_alcalsis no es válido.
+Línea 202: el nombre de la propiedad OLEDBFile de usuario_alcalsis no es válido.
+Línea 203: el nombre de la propiedad DataSourceName de usuario_alcalsis no es válido.
+Línea 204: el nombre de la propiedad OtherAttributes de usuario_alcalsis no es válido.
+Línea 205: el nombre de la propiedad UserName de usuario_alcalsis no es válido.
+Línea 206: el nombre de la propiedad Password de usuario_alcalsis no es válido.
+Línea 207: el nombre de la propiedad RecordSource de usuario_alcalsis no es válido.
+Línea 208: el nombre de la propiedad Caption de usuario_alcalsis no es válido.
+Línea 218: el nombre de la propiedad _Version de usuario_alcalsis no es válido.
+Línea 221: el nombre de la propiedad Bindings de DCombo_login no es válido.
+Línea 227: el nombre de la propiedad _ExtentX de DCombo_login no es válido.
+Línea 228: el nombre de la propiedad _ExtentY de DCombo_login no es válido.
+Línea 229: el nombre de la propiedad _Version de DCombo_login no es válido.
+Línea 231: el nombre de la propiedad Style de DCombo_login no es válido.
+Línea 232: el nombre de la propiedad ListField de DCombo_login no es válido.
+Línea 233: el nombre de la propiedad BoundColumn de DCombo_login no es válido.
+Línea 234: el nombre de la propiedad Text de DCombo_login no es válido.
+Línea 253: el nombre de la propiedad Caption de Label4 no es válido.
+Línea 254: el nombre de la propiedad Size de Label4 no es válido.
+Línea 255: el nombre de la propiedad FontEffects de Label4 no es válido.
+Línea 256: el nombre de la propiedad FontHeight de Label4 no es válido.
+Línea 257: el nombre de la propiedad FontCharSet de Label4 no es válido.
+Línea 258: el nombre de la propiedad FontPitchAndFamily de Label4 no es válido.
+Línea 259: el nombre de la propiedad FontWeight de Label4 no es válido.
+Línea 276: el nombre de la propiedad Caption de login no es válido.
+Línea 277: el nombre de la propiedad Size de login no es válido.
+Línea 278: el nombre de la propiedad FontEffects de login no es válido.
+Línea 279: el nombre de la propiedad FontHeight de login no es válido.
+Línea 280: el nombre de la propiedad FontCharSet de login no es válido.
+Línea 281: el nombre de la propiedad FontPitchAndFamily de login no es válido.
+Línea 282: el nombre de la propiedad FontWeight de login no es válido.
+Línea 291: el nombre de la propiedad Caption de Label1 no es válido.
+Línea 292: el nombre de la propiedad Size de Label1 no es válido.
+Línea 293: el nombre de la propiedad BorderColor de Label1 no es válido.
+Línea 294: el nombre de la propiedad FontEffects de Label1 no es válido.
+Línea 295: el nombre de la propiedad FontHeight de Label1 no es válido.
+Línea 296: el nombre de la propiedad FontCharSet de Label1 no es válido.
+Línea 297: el nombre de la propiedad FontPitchAndFamily de Label1 no es válido.
+Línea 298: el nombre de la propiedad FontWeight de Label1 no es válido.
+Línea 304: el nombre de la propiedad _ExtentX de cdlBox no es válido.
+Línea 305: el nombre de la propiedad _ExtentY de cdlBox no es válido.
+Línea 306: el nombre de la propiedad _Version de cdlBox no es válido.
